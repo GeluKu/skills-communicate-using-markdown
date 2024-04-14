@@ -4,6 +4,8 @@
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
+:release:
+
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
