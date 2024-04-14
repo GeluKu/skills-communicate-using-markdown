@@ -2,6 +2,8 @@
 ### H3
 ###### H6
 
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
