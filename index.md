@@ -3,4 +3,4 @@
 ###### H6
 
 
-![Dunetocat](https://octodex.github.com/images/dunetocat.png)
+![Dunetocat](https://octodex.github.com/images/dunetocat.png =45x45)
