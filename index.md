@@ -2,4 +2,4 @@
 ### H3
 ###### H6
 
-![Dune](https://octodex.github.com/dunetocat/)
+![Dune](https://octodex.github.com/dunetocat.png/)
