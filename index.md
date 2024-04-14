@@ -3,7 +3,7 @@
 ###### H6
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
-:hearth:
+:heart:
 💙
 
 - [x] List syntax is required
