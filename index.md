@@ -3,4 +3,9 @@
 ###### H6
 
 
-![Dunetocat](https://octodex.github.com/images/dunetocat.png =45x45)
+![Dunetocat](https://octodex.github.com/images/dunetocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
