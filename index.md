@@ -2,6 +2,9 @@
 ### H3
 ###### H6
 
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
 
 ![Dunetocat](https://octodex.github.com/images/dunetocat.png)
 
